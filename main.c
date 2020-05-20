@@ -4,7 +4,8 @@
 #include "prototypes.h"
 
 int main() {
-  printf("Bienvenue dans votre console autoresponder.\n        ---         \nCode by trio-programming\nEm attente d'une reponse.\n");
-  lire
+  printf("Bienvenue dans votre console autoresponder.\n        ---         \nCode by trio-programming\nEn attente d'une reponse.\n");
+  char commande [] = "";
+  lire(commande, 70);
   return 0;
 }
