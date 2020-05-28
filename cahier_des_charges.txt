@@ -1,5 +1,0 @@
--Doit répondre au fur et a meusure : 0 lettres de différence, 1 lettre, 2 lettre ect
--Réponses dnas fichier reponses.bot
--questions dans questions.bot
--console admin
--commandes : interprétation, amelioration ect... préfixe !
